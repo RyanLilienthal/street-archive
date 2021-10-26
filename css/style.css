@@ -5,7 +5,7 @@ html {
   margin-top: -10px;
   padding: 0px;
   height: 100vh;
-  color: rgb(255, 227, 65);
+  color: rgb(189, 248, 51);
 }
 
 .header {
@@ -23,7 +23,7 @@ html {
 p {
   z-index: 10; 
   position: fixed;
-  bottom: 25px;
+  bottom: 30px;
   width: 95%;
   font-size: 16px;
   /* width: 50%; */
