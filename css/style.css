@@ -28,7 +28,7 @@ p {
   font-size: 25px;
   /* width: 50%; */
   margin-left: 22px;
-  text-shadow: 1px 1px 1px grey;
+  text-shadow: 1px 1px 3px rgb(70, 67, 67);
 
   /* background-color: white; */
 }
@@ -38,7 +38,7 @@ h1 {
   margin-left: 9px;
   margin-top: 26px;
   font-size: 45px;
-  text-shadow: 1px 1px 1px grey;
+  text-shadow: 1px 1px 3px rgb(70, 67, 67);
 }
 
 .gallery {
