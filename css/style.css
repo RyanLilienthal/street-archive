@@ -5,7 +5,7 @@ html {
   margin-top: -10px;
   padding: 0px;
   height: 100vh;
-  color: rgb(253, 240, 49);
+  color: rgb(252, 220, 42);
 }
 
 .header {
@@ -39,6 +39,7 @@ h1 {
   margin-top: 26px;
   font-size: 45px;
   text-shadow: 1px 1px 3px rgb(70, 67, 67);
+  line height: 1px;
 }
 
 .gallery {
