@@ -81,9 +81,14 @@ h1 {
 body,
 html {
   background-color: black;
-  margin-top: 25px;
-  z-index: -1
+  /* margin-top: 25px;
+  z-index: -1 */
 }
+
+#first {
+  margin-top: 200px
+}
+
   .gallery {
     width: 95%;
   }
