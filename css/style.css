@@ -81,6 +81,7 @@ body,
 html {
   background-color: black;
   margin-top: 100px;
+  z-index: -1
 }
   .gallery {
     width: 95%;
