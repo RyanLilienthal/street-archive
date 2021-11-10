@@ -40,6 +40,7 @@ h1 {
   font-size: 40px;
   text-shadow: 1px 1px 3px rgb(0, 0, 0);
   line height: 1px;
+  z-index: 10px;
 }
 
 .gallery {
