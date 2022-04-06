@@ -37,7 +37,7 @@ html {
 p {
   z-index: 10; 
   position: fixed;
-  bottom: -20px;
+  bottom: 20px;
   width: 97%;
   font-size: 20px;
   /* width: 50%;
