@@ -37,8 +37,8 @@ html {
 p {
   z-index: 10; 
   position: fixed;
-  bottom: 20px;
-  width: 97%;
+  bottom: -20px;
+  width: 98%;
   font-size: 20px;
   /* width: 50%;
   margin-left: 20px; */
@@ -207,11 +207,6 @@ html {
   padding: 20px;
   /* margin-top: 100px; */
 }
-/* 
-.bottom, p {
-  position: fixed;
-  margin-bottom: 100px;
-} */
 
 .video {
   padding-bottom: 250px;
